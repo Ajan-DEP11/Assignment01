@@ -10,6 +10,8 @@ public class Demo3 {
 
         System.out.printf("Phone Number - (%s%s%s)%s-%s\n",COLOR,AreaCode,RESET,MiddleNum,LastNum);
 
+        
+
     }
     
 }
