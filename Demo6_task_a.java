@@ -1,5 +1,7 @@
-public class Demo_task_a{
+public class Demo6_task_a{
     public static void main(String[] args){
+
+        
         
     }
     
